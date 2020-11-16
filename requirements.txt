@@ -1,4 +1,4 @@
-dataclasses==0.8
+dataclasses
 Django==2.2.13
 future==0.18.2
 imageio==2.9.0
