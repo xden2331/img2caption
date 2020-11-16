@@ -1,6 +1,6 @@
 branch-defaults:
   master:
-    environment: django-env
+    environment: django-env-2
 global:
   application_name: img-2-caption
   branch: null
