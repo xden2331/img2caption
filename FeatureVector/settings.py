@@ -23,9 +23,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '$0u2@8w8**nuq(j0qopme(&4orxls)9ex^)ja^)vjsg6v$7@y5'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['*', 'django-env.eba-3nempmmz.us-west-2.elasticbeanstalk.com']
 
 
 # Application definition

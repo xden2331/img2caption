@@ -1,6 +1,6 @@
 branch-defaults:
   master:
-    environment: django-env-2
+    environment: django-env
 commands:
   install_pytorch:
     command: pip install torch==1.7.0
