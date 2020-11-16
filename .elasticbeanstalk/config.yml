@@ -1,11 +1,10 @@
 branch-defaults:
-  main:
-    environment: null
-    group_suffix: null
+  master:
+    environment: django-env
 global:
   application_name: img-2-caption
   branch: null
-  default_ec2_keyname: null
+  default_ec2_keyname: img2caption-keypair
   default_platform: Python 3.6
   default_region: us-west-2
   include_git_submodules: true
